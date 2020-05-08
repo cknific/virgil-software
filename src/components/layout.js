@@ -1,4 +1,3 @@
-import { Container } from 'reactstrap'
 import Footer from './Footer'
 import PropTypes from "prop-types"
 import Header from "./header"
@@ -21,11 +20,9 @@ const Layout = ({ children }) => {
   return (
     <Fragment>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <Container>
-        <main>
-          {children}
-        </main>
-      </Container>
+      <main>
+        {children}
+      </main>
       <Footer />
     </Fragment>
   )

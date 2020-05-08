@@ -5,9 +5,8 @@ import React from "react"
 import styled from 'styled-components'
 
 const StyledHeader = styled.header`
-  background: rebeccapurple;
-  margin-bottom: 1.45rem;
-  padding: 2rem 0;
+  background: #2c3e50;
+  padding: 1rem 0;
 `
 
 const StyledLink = styled(Link)`
@@ -22,11 +21,11 @@ const StyledLink = styled(Link)`
 const Header = ({ siteTitle }) => (
   <StyledHeader>
     <Container>
-      <h1 style={{ margin: 0 }}>
+      <span>
         <StyledLink to="/">
           {siteTitle}
         </StyledLink>
-      </h1>
+      </span>
     </Container>
   </StyledHeader>
 )

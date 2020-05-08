@@ -1,12 +1,18 @@
 import React from 'react'
 import { Container } from 'reactstrap'
+import styled from 'styled-components'
+
+const FooterWrapper = styled.footer`
+  padding: 1rem;
+  text-align: center;
+`
 
 const Footer = () => (
-  <footer>
+  <FooterWrapper>
     <Container>
       © {new Date().getFullYear()} Virgil
     </Container>
-  </footer>
+  </FooterWrapper>
 )
 
 export default Footer
