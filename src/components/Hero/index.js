@@ -6,7 +6,7 @@ import Image from './image'
 const Wrapper = styled.div`
   background-color: #18bc9c;
   color: #fff;
-  padding: 8rem 0 10rem;
+  padding: 8rem 0;
 `
 
 const StyledDiv = styled.div`
