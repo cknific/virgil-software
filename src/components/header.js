@@ -1,13 +1,18 @@
 import { Container } from 'reactstrap'
 import { Link } from "gatsby"
+import Logo from '../images/logo.png'
 import PropTypes from "prop-types"
 import React from "react"
 import styled from 'styled-components'
 
+const FlexContainer = styled.div`
+  align-items: center;
+  display: flex;
+`
+
 const StyledHeader = styled.header`
-  background: rebeccapurple;
-  margin-bottom: 1.45rem;
-  padding: 2rem 0;
+  background: #5c89d0;
+  padding: 1rem 0;
 `
 
 const StyledLink = styled(Link)`
@@ -19,14 +24,20 @@ const StyledLink = styled(Link)`
   }
 `
 
-const Header = ({ siteTitle }) => (
+const StyledLogo = styled.img`
+  margin-right: 0.5rem;
+  width: 2rem;
+`
+
+const Header = () => (
   <StyledHeader>
-    <Container>
-      <h1 style={{ margin: 0 }}>
-        <StyledLink to="/">
-          {siteTitle}
-        </StyledLink>
-      </h1>
+    <Container fluid>
+      <StyledLink to="/">
+        <FlexContainer>
+          <StyledLogo src={Logo} />
+          Virgil Software
+        </FlexContainer>
+      </StyledLink>
     </Container>
   </StyledHeader>
 )

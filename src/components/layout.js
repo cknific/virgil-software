@@ -1,4 +1,4 @@
-import { Container } from 'reactstrap'
+import Footer from './Footer'
 import PropTypes from "prop-types"
 import Header from "./header"
 import React, { Fragment } from "react"
@@ -20,16 +20,10 @@ const Layout = ({ children }) => {
   return (
     <Fragment>
       <Header siteTitle={data.site.siteMetadata.title} />
-      <Container>
-        <main>
-          {children}
-        </main>
-        <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
-      </Container>
+      <main>
+        {children}
+      </main>
+      <Footer />
     </Fragment>
   )
 }
