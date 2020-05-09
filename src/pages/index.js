@@ -1,4 +1,5 @@
 import Clients from '../components/Clients'
+import Contact from '../components/Contact'
 import Hero from "../components/Hero"
 import Layout from "../components/layout"
 import React from "react"
@@ -17,6 +18,7 @@ const IndexPage = () => (
     <ProductManagement />
     <Development />
     <Design />
+    <Contact />
   </Layout>
 )
 
