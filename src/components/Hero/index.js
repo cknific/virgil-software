@@ -25,7 +25,7 @@ const Hero = () => (
           <Image />
           <h1>&nbsp;Under Construction</h1>
         </FlexContainer>
-        <p>Software product management, front-end development, and UX/UI design.</p>
+        <p>Meanwhile, Virgil Software continues to provide software product management, front-end development, and UX/UI design.</p>
       </StyledDiv>
     </Container>
   </Wrapper>
