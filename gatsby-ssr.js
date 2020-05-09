@@ -3,10 +3,9 @@
  *
  * See: https://www.gatsbyjs.org/docs/ssr-apis/
  */
-
-import React from 'react'
-import { renderToString } from 'react-dom/server'
-import { ServerStyleSheet, StyleSheetManager } from 'styled-components'
+const React = require('react')
+const { renderToString } = require('react-dom/server')
+const { ServerStyleSheet, StyleSheetManager } = require('styled-components')
 
 exports.replaceRenderer = ({
   bodyComponent,
