@@ -5,7 +5,7 @@ import React from "react"
 import styled from 'styled-components'
 
 const StyledHeader = styled.header`
-  background: #2c3e50;
+  background: #18bc9c;
   padding: 1rem 0;
 `
 
@@ -20,7 +20,7 @@ const StyledLink = styled(Link)`
 
 const Header = ({ siteTitle }) => (
   <StyledHeader>
-    <Container>
+    <Container fluid>
       <span>
         <StyledLink to="/">
           {siteTitle}
