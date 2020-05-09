@@ -5,7 +5,7 @@ const Development = () => (
   <SectionWrapper light textRight>
     <div>
       <h3>Development</h3>
-      <p>Building Static Prototypes, Using HTML5 / CSS3 (SCSS) / JS, Creating Responsive UI for Mobile & Desktop UX, Employing Bootstrap and other UI frameworks.</p>
+      <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </div>
     <div className="ml-5">
       <img alt="logo" src="https://via.placeholder.com/200" />

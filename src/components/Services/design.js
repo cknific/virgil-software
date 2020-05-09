@@ -8,7 +8,7 @@ const Design = () => (
     </div>
     <div>
       <h3>Design</h3>
-      <p>Building Wireframes, Designing Polished Mockups, Mocking Up New Features in Existing Apps</p>
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.</p>
     </div>
   </SectionWrapper>
 )

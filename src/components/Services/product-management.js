@@ -8,7 +8,7 @@ const ProductManagement = () => (
     </div>
     <div>
       <h3>Product Management</h3>
-      <p>Scope Definition, Writing User Stories, Iteration Planning, Agile Workflow, Performing and Guiding Acceptance Testing, Implementing Process Improvements</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
     </div>
   </SectionWrapper>
 )
