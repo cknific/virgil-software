@@ -3,6 +3,8 @@ import { Container } from 'reactstrap'
 import styled from 'styled-components'
 
 const FooterWrapper = styled.footer`
+  background-color: #293c4e;
+  color: white;
   padding: 1rem;
   text-align: center;
 `
