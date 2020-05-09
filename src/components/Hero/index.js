@@ -14,18 +14,19 @@ const StyledDiv = styled.div`
 `
 
 const FlexContainer = styled.div`
+  align-items: center;
   display: flex;
 `
 
 const Hero = () => (
   <Wrapper>
     <Container>
+      <FlexContainer>
+        <Image />
+        <h1 className="display-4">&nbsp;Site Under Construction</h1>
+      </FlexContainer>
       <StyledDiv>
-        <FlexContainer>
-          <Image />
-          <h1>&nbsp;Under Construction</h1>
-        </FlexContainer>
-        <p>Meanwhile, Virgil Software continues to provide software product management, front-end development, and UX/UI design.</p>
+        <p className="lead">Meanwhile, Virgil Software continues to provide software product management, front-end development, and UX/UI design.</p>
       </StyledDiv>
     </Container>
   </Wrapper>
