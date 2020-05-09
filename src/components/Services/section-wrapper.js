@@ -16,15 +16,22 @@ const StyledContainer = styled(Container)`
   }
 `
 
+const FlexContainer = styled.div`
+  align-items: center;
+  display: flex;
+`
+
 const StyledDiv = styled.div`
-  max-width: 30rem;
+  max-width: 50rem;
 `
 
 const SectionWrapper = ({ children, light, textRight }) => (
   <Wrapper light={light} textRight={textRight}>
     <StyledContainer textRight={textRight}>
       <StyledDiv>
-        {children}
+        <FlexContainer>
+          {children}
+        </FlexContainer>
       </StyledDiv>
     </StyledContainer>
   </Wrapper>
