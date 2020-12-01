@@ -32,7 +32,14 @@ const Hero = () => (
       <StyledDiv>
         <p className="lead">Product management, front-end development, and UX/UI design for enterprise and consumer markets.</p>
       </StyledDiv>
-      <StyledButton outline color="secondary" size="lg">Get In Touch</StyledButton>
+      <StyledButton
+        outline
+        color="secondary"
+        size="lg"
+        href="#contact"
+      >
+        Get In Touch
+      </StyledButton>
     </Container>
   </Wrapper>
 )

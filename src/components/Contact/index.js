@@ -23,7 +23,7 @@ const FormContainer = styled.div`
 `
 
 const Contact = () => (
-  <Wrapper>
+  <Wrapper id="contact">
     <Container>
       <SectionHeading>
         <h3>Contact</h3>
