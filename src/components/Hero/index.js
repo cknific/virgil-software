@@ -1,3 +1,4 @@
+import breakpoint from 'styled-components-breakpoint'
 import { Button, Container } from 'reactstrap'
 import React from 'react'
 import styled from 'styled-components'
@@ -5,7 +6,10 @@ import styled from 'styled-components'
 const Wrapper = styled.div`
   background-color: #18bc9c;
   color: #fff;
-  padding: 8rem 0;
+  padding: 4rem 0;
+  ${breakpoint('tablet')`
+    padding: 8rem 0;
+  `};
 `
 
 const StyledDiv = styled.div`
