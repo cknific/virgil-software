@@ -29,14 +29,19 @@ const Contact = () => (
         <h3>Contact</h3>
       </SectionHeading>
       <FormContainer>
-        <Form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
+        <Form
+          name="contact"
+          method="post"
+          data-netlify="true"
+          data-netlify-honeypot="bot-field"
+        >
           <FormGroup>
             <Label for="exampleEmail">Email</Label>
-            <Input type="email" name="email" id="exampleEmail" placeholder="user@example.com" />
+            <Input type="email" name="email" id="exampleEmail" placeholder="user@example.com" required />
           </FormGroup>
           <FormGroup>
             <Label for="exampleText">Message</Label>
-            <Input type="textarea" name="text" id="exampleText" />
+            <Input type="textarea" name="text" id="exampleText" required />
           </FormGroup>
           <Button type="submit">Submit</Button>
           <input type="hidden" name="form-name" value="contact" />
