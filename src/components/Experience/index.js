@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Container } from 'reactstrap'
+import { YearsActive, SectionHeading } from '../Shared'
 
 const Wrapper = styled.div`
   background-color: #fafafa;
@@ -16,22 +17,6 @@ const JobContainer = styled.div`
 const StyledList = styled.ul`
   padding-left: .9rem;
   font-size: .9rem;
-`
-const SectionHeading = styled.div`
-  font-weight: bold;
-  margin-bottom: 1rem;
-  color: orange;
-  font-size: 12px;
-  letter-spacing: 0.2rem;
-  text-transform: uppercase;
-`
-
-const YearsActive = styled.div`
-  color: #666;
-  font-size: 11px;
-  letter-spacing: 0.05rem;
-  margin-bottom: .25rem;
-  text-transform: uppercase;
 `
 
 const Experience = () => (
