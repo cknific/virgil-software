@@ -29,7 +29,7 @@ const Contact = () => (
         <h3>Contact</h3>
       </SectionHeading>
       <FormContainer>
-        <Form>
+        <Form name="contact" data-netlify="true">
           <FormGroup>
             <Label for="exampleEmail">Email</Label>
             <Input type="email" name="email" id="exampleEmail" placeholder="user@example.com" />
@@ -38,7 +38,7 @@ const Contact = () => (
             <Label for="exampleText">Message</Label>
             <Input type="textarea" name="text" id="exampleText" />
           </FormGroup>
-          <Button>Submit</Button>
+          <Button type="submit">Submit</Button>
         </Form>
       </FormContainer>
     </Container>
