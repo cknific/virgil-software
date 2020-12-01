@@ -25,13 +25,13 @@ const Education = () => (
       <Col sm="12" md="6">
         <EducationContainer>
           <YearsActive>2006 - 2010</YearsActive>
-          <h5>Emory University | Goizueta Business School (2010)</h5>
+          <h5>Emory University | Goizueta Business School</h5>
           <p>Bachelors, Business Administration<br/>Concentration in Organization & Management</p>
         </EducationContainer>
       </Col>
       <Col sm="12" md="6">
         <YearsActive>Summer 2012</YearsActive>
-        <h5>ArtCenter College of Design (2012)</h5>
+        <h5>ArtCenter College of Design</h5>
         <p>Completed courses in Typography and Advanced Photoshop</p>
       </Col>
     </Row>
