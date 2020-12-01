@@ -28,9 +28,9 @@ const StyledButton = styled(Button)`
 const Hero = () => (
   <Wrapper>
     <Container>
-      <h1 className="display-4">Virgil Does Software.</h1>
+      <h1 className="display-4">Chris Knific</h1>
       <StyledDiv>
-        <p className="lead">Product management, front-end development, and UX/UI design for enterprise and consumer markets.</p>
+        <p className="lead">Product Manager. Front-end Developer. UX/UI Designer. Musician.</p>
       </StyledDiv>
       <StyledButton
         outline
