@@ -1,3 +1,4 @@
+import breakpoint from 'styled-components-breakpoint'
 import { Button, Container } from 'reactstrap'
 import React from 'react'
 import styled from 'styled-components'
@@ -5,7 +6,10 @@ import styled from 'styled-components'
 const Wrapper = styled.div`
   background-color: #18bc9c;
   color: #fff;
-  padding: 8rem 0;
+  padding: 4rem 0;
+  ${breakpoint('tablet')`
+    padding: 8rem 0;
+  `};
 `
 
 const StyledDiv = styled.div`
@@ -28,11 +32,18 @@ const StyledButton = styled(Button)`
 const Hero = () => (
   <Wrapper>
     <Container>
-      <h1 className="display-4">Virgil Does Software.</h1>
+      <h1 className="display-4">Chris Knific</h1>
       <StyledDiv>
-        <p className="lead">Product management, front-end development, and UX/UI design for enterprise and consumer markets.</p>
+        <p className="lead">Product Manager. Front-end Developer. UX/UI Designer. Musician.</p>
       </StyledDiv>
-      <StyledButton outline color="secondary" size="lg">Get In Touch</StyledButton>
+      <StyledButton
+        outline
+        color="secondary"
+        size="lg"
+        href="#contact"
+      >
+        Get In Touch
+      </StyledButton>
     </Container>
   </Wrapper>
 )

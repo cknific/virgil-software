@@ -35,7 +35,7 @@ const Header = () => (
       <StyledLink to="/">
         <FlexContainer>
           <StyledLogo src={Logo} />
-          Virgil Software
+          Chris Knific | Virgil Software
         </FlexContainer>
       </StyledLink>
     </Container>
