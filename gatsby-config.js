@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Chris Knific | Virgil Software`,
+    title: `Chris Knific`,
     description: `Chris Knific: Virgil Software Consulting.`,
     author: `Virgil Software`,
   },
