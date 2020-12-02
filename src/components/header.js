@@ -11,7 +11,7 @@ const FlexContainer = styled.div`
 `
 
 const StyledHeader = styled.header`
-  background: #5c89d0;
+  background: #428be5;
   padding: 1rem 0;
 `
 

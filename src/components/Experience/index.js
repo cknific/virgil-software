@@ -2,13 +2,30 @@ import React from 'react'
 import styled from 'styled-components'
 import { Container } from 'reactstrap'
 import { YearsActive, SectionHeading } from '../Shared'
+import Briefcase from './briefcase.svg'
 
 const Wrapper = styled.div`
   background-color: #fafafa;
   padding: 3rem 0;
 `
 
-const Position = styled.h6``
+const FlexContainer = styled.div`
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.75rem;
+`
+
+const StyledImage = styled.img`
+  margin-right: 0.5rem;
+`
+
+const Position = styled.h6`
+  margin-bottom: 0.75rem;
+`
+
+const Company = styled.h5`
+  color: #428be5;
+`
 
 const JobContainer = styled.div`
   margin-bottom: 2.5rem;
@@ -17,15 +34,19 @@ const JobContainer = styled.div`
 const StyledList = styled.ul`
   padding-left: .9rem;
   font-size: .9rem;
+  line-height: 1.75;
 `
 
 const Experience = () => (
   <Wrapper>
     <Container>
-      <SectionHeading>Work Experience</SectionHeading>
+      <FlexContainer>
+        <StyledImage src={Briefcase} />
+        <SectionHeading>Work Experience</SectionHeading>
+      </FlexContainer>
       <JobContainer>
         <YearsActive>Feb 2020 - Present</YearsActive>
-        <h5>Bruvi — IoT Enabled Single-Serve Coffee Machine</h5>
+        <Company>Bruvi — IoT Enabled Single-Serve Coffee Machine</Company>
         <Position>Director of Software</Position>
         <StyledList>
           <li>Oversaw Bruvi’s e-commerce website, IoT coffee machine, mobile app, and the resulting ecosystem's cloud</li>
@@ -37,7 +58,7 @@ const Experience = () => (
       </JobContainer>
       <JobContainer>
         <YearsActive>Jan 2018 - Present</YearsActive>
-        <h5>Patreon — Membership Platform for Creators</h5>
+        <Company>Patreon — Membership Platform for Creators</Company>
         <Position>UX & UI Consultant</Position>
         <StyledList>
           <li>Redesigned the Patreon Blog from scratch, growing traffic by 70% and doubled key conversion rates</li>
@@ -49,7 +70,7 @@ const Experience = () => (
       </JobContainer>
       <JobContainer>
         <YearsActive>Oct 2016 - Oct 2019</YearsActive>
-        <h5>Mutations Limited — Software Development Agency</h5>
+        <Company>Mutations Limited — Software Development Agency</Company>
         <Position>Co-Founder, Developer, PM, and Designer</Position>
         <StyledList>
           <li>Created a profitable consulting business alongside four senior software engineers</li>
@@ -64,7 +85,7 @@ const Experience = () => (
       </JobContainer>
       <JobContainer>
         <YearsActive>Sept 2013 – Dec 2016</YearsActive>
-        <h5>01Click — Enterprise Software Company with Fortune 500 Clients</h5>
+        <Company>01Click — Enterprise Software Company with Fortune 500 Clients</Company>
         <Position>Product Manager and Designer</Position>
         <StyledList>
           <li>Designed and managed the roadmap of a mobile app distributed to 40,000 IBM sales reps</li>
@@ -80,7 +101,7 @@ const Experience = () => (
       </JobContainer>
       <JobContainer>
         <YearsActive>Feb 2011 - Sept 2014</YearsActive>
-        <h5>Stageit.com — Live Entertainment Streaming Platform</h5>
+        <Company>Stageit.com — Live Entertainment Streaming Platform</Company>
         <Position>Product Manager and Designer</Position>
         <StyledList>
           <li>Developed a consumer-facing platform that allowed artists to perform live, ticketed, interactive performances online</li>

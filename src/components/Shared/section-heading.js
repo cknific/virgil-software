@@ -1,12 +1,11 @@
 import styled from 'styled-components'
 
 const SectionHeading = styled.div`
-  font-weight: bold;
-  margin-bottom: 1rem;
-  color: orange;
-  font-size: 12px;
-  letter-spacing: 0.2rem;
+  color: #18bc9c;
+  font-size: 14px;
+  letter-spacing: 0.1rem;
   text-transform: uppercase;
+  font-family: 'Space Grotesk';
 `
 
 export default SectionHeading

@@ -3,12 +3,23 @@ import styled from 'styled-components'
 import { Container, Row, Col } from 'reactstrap'
 import breakpoint from 'styled-components-breakpoint'
 import { YearsActive, SectionHeading } from '../Shared'
+import GradCapIcon from './grad-cap.svg'
 
 const StyledContainer = styled(Container)`
   && {
     margin-top: 3rem;
     margin-bottom: 3rem;
   }
+`
+
+const StyledImage = styled.img`
+  margin-right: 0.5rem;
+`
+
+const FlexContainer = styled.div`
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.75rem;
 `
 
 const EducationContainer = styled.div`
@@ -20,7 +31,10 @@ const EducationContainer = styled.div`
 
 const Education = () => (
   <StyledContainer>
-    <SectionHeading>EDUCATION & TRAINING</SectionHeading>
+    <FlexContainer>
+      <StyledImage src={GradCapIcon} />
+      <SectionHeading>Education &amp; Training</SectionHeading>
+    </FlexContainer>
     <Row>
       <Col sm="12" md="6">
         <EducationContainer>

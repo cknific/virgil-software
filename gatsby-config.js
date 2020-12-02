@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Virgil Software`,
-    description: `Website for Virgil Software consulting.`,
+    title: `Chris Knific`,
+    description: `Chris Knific: Virgil Software Consulting.`,
     author: `Virgil Software`,
   },
   plugins: [
