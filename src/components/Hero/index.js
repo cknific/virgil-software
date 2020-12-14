@@ -29,6 +29,15 @@ const StyledButton = styled(Button)`
   }
 `
 
+const SocialContainer = styled.div`
+  margin: 1rem 0 0;
+  font-size: 0.9rem;
+
+  a {
+    color: white;
+  }
+`
+
 const Hero = () => (
   <Wrapper>
     <Container>
@@ -44,6 +53,11 @@ const Hero = () => (
       >
         Get In Touch
       </StyledButton>
+      <SocialContainer>
+        <a href="https://www.github.com/cknific">GitHub</a>
+        &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://www.linkedin.com/in/chris-knific">LinkedIn</a>
+      </SocialContainer>
     </Container>
   </Wrapper>
 )
