@@ -64,7 +64,7 @@ const Experience = () => (
           <li>Redesigned the Patreon Blog from scratch, growing traffic by 70% and doubled key conversion rates</li>
           <li>Designed the site for mobile and desktop experiences, helping to optimize SEO and UX</li>
           <li>Managed a team of developers and organized project management tasks, balancing security fixes and features</li>
-          <li>Integrated CMS and analytics systems to give Patreon control and visibility into the efficacy of their content </li>strategy
+          <li>Integrated CMS and analytics systems to give Patreon control and visibility into the efficacy of their content strategy</li>
           <li>Designed new features to enhance the blog and implemented code changes to the user interface</li>
         </StyledList>
       </JobContainer>
@@ -109,7 +109,8 @@ const Experience = () => (
           <li>Met routinely with the sales team to quickly optimize the product, growing monthly revenue to over $100,000</li>
           <li>Transitioned internal software development to an o!shore team in Bulgaria</li>
           <li>Wireframed and mocked the UI for all feature requests and attached designs to detailed user stories I wrote</li>
-          <li>Monitored thousands of support tickets from paying customers to help prioritize bugs and feature requests</li>        </StyledList>
+          <li>Monitored thousands of support tickets from paying customers to help prioritize bugs and feature requests</li>
+        </StyledList>
       </JobContainer>
     </Container>
   </Wrapper>
