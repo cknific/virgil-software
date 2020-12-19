@@ -2,9 +2,12 @@ import breakpoint from 'styled-components-breakpoint'
 import { Button, Container } from 'reactstrap'
 import React from 'react'
 import styled from 'styled-components'
+import backgroundImage from './bg.svg'
 
 const Wrapper = styled.div`
   background-color: #18bc9c;
+  background-image: url(${backgroundImage});
+  background-repeat: repeat;
   color: #fff;
   padding: 4rem 0;
   ${breakpoint('tablet')`
