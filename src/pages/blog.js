@@ -1,7 +1,7 @@
 import Layout from '../components/layout'
 import React from 'react'
 import { Helmet } from 'react-helmet'
-import { Container } from 'Reactstrap'
+import { Container } from 'reactstrap'
 import { Link, graphql } from 'gatsby'
 import styled from 'styled-components'
 

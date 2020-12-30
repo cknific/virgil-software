@@ -2,7 +2,7 @@ import React from 'react'
 import { Helmet } from 'react-helmet'
 import { graphql } from 'gatsby'
 import Layout from '../components/layout'
-import { Container } from 'Reactstrap'
+import { Container } from 'reactstrap'
 import { Link } from 'gatsby'
 import styled from 'styled-components'
 
