@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet'
 import { graphql } from 'gatsby'
 import Layout from '../components/layout'
 import { Container } from 'Reactstrap'
+import { Link } from 'gatsby'
 import styled from 'styled-components'
 
 const PostHero = styled.div`
@@ -14,6 +15,10 @@ const PostHero = styled.div`
 
 const PostBody = styled.div`
   margin-bottom: 4rem;
+`
+
+const Breadcrumb = styled.div`
+  margin-bottom: 2rem;
 `
 
 export default function Template ({ data }) {
@@ -34,6 +39,9 @@ export default function Template ({ data }) {
       </PostHero>
       <PostBody>
         <Container>
+          <Breadcrumb>
+            <Link to="/blog">&larr; View all Blog Posts</Link>
+          </Breadcrumb>
           <div dangerouslySetInnerHTML={{ __html: post.html }} />
         </Container>
       </PostBody>
