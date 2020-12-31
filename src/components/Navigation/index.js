@@ -1,6 +1,6 @@
 import { Container } from 'reactstrap'
 import { Link } from "gatsby"
-import Logo from '../images/logo.png'
+import Logo from './logo.png'
 import PropTypes from "prop-types"
 import React from "react"
 import styled from 'styled-components'
@@ -8,6 +8,7 @@ import styled from 'styled-components'
 const FlexContainer = styled.div`
   align-items: center;
   display: flex;
+  justify-content: space-between;
 `
 
 const StyledHeader = styled.header`
@@ -29,25 +30,30 @@ const StyledLogo = styled.img`
   width: 2rem;
 `
 
-const Header = () => (
+const Navigation = () => (
   <StyledHeader>
     <Container fluid>
       <StyledLink to="/">
         <FlexContainer>
-          <StyledLogo src={Logo} />
-          Chris Knific | Virgil Software
+          <div>
+            <StyledLogo src={Logo} />
+            Chris Knific
+          </div>
+          <div>
+            <StyledLink to="/blog">Blog</StyledLink>
+          </div>
         </FlexContainer>
       </StyledLink>
     </Container>
   </StyledHeader>
 )
 
-Header.propTypes = {
+Navigation.propTypes = {
   siteTitle: PropTypes.string,
 }
 
-Header.defaultProps = {
+Navigation.defaultProps = {
   siteTitle: ``,
 }
 
-export default Header
+export default Navigation
