@@ -27,6 +27,8 @@
     "styled-components-breakpoint": "^3.0.0-preview.20"
   },
   "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-plugin-react": "^7.22.0",
     "prettier": "2.0.5"
   },
   "keywords": [
