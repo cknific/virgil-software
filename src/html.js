@@ -43,7 +43,7 @@ HTML.propTypes = {
     PropTypes.oneOfType([
       PropTypes.array,
       PropTypes.object,
-    ])
+    ]),
   ),
   htmlAttributes: PropTypes.object, // eslint-disable-line react/forbid-prop-types
   postBodyComponents: PropTypes.arrayOf(PropTypes.object),
