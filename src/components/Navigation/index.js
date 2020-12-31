@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import styled from 'styled-components'
-import Logo from '../images/logo.png'
+import Logo from '../../images/logo.png'
 
 const FlexContainer = styled.div`
   align-items: center;
