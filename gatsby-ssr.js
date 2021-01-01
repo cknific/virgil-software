@@ -18,8 +18,8 @@ exports.replaceRenderer = ({
     renderToString(
       <StyleSheetManager sheet={serverStyleSheet.instance}>
         {bodyComponent}
-      </StyleSheetManager>
-    )
+      </StyleSheetManager>,
+    ),
   )
 
   setHeadComponents([serverStyleSheet.getStyleElement()])

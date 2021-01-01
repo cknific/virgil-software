@@ -1,6 +1,6 @@
 import Footer from './Footer'
 import PropTypes from "prop-types"
-import Header from "./header"
+import Navigation from "./Navigation"
 import React, { Fragment } from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
@@ -19,7 +19,7 @@ const Layout = ({ children }) => {
 
   return (
     <Fragment>
-      <Header siteTitle={data.site.siteMetadata.title} />
+      <Navigation siteTitle={data.site.siteMetadata.title} />
       <main>
         {children}
       </main>
