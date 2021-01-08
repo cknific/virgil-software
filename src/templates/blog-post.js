@@ -1,3 +1,4 @@
+import Img from 'gatsby-image';
 import React from 'react'
 import { Helmet } from 'react-helmet'
 import { graphql } from 'gatsby'
@@ -34,6 +35,10 @@ const IconContainer = styled.div`
   color: #adadad;
 `
 
+const HeroImage = styled(Img)`
+  width: 100%rem;
+`
+
 export default function Template ({ data }) {
   const { markdownRemark: post } = data // data.markdownRemark holds your post data
 
@@ -47,6 +52,7 @@ export default function Template ({ data }) {
             <span>{post.frontmatter.author}</span>
             <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
             <span>{post.frontmatter.date}</span>
+            <HeroImage sizes={post.frontmatter.featured_image.childImageSharp.sizes} />
           </div>
         </Container>
       </PostHero>
@@ -74,6 +80,14 @@ export const pageQuery = graphql`
       frontmatter {
         author
         date(formatString: "MMMM DD, YYYY")
+        featured_image {
+          publicURL
+          childImageSharp {
+            sizes(maxWidth: 1080 ) {
+              srcSet
+            }
+          }
+        }
         path
         title
       }
