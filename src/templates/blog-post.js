@@ -67,7 +67,10 @@ export default function Template ({ data }) {
             View all Blog Posts
           </Breadcrumb>
         </Link>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div
+          dangerouslySetInnerHTML={{ __html: post.html }}
+          itemProp="articleBody"
+        />
       </PostBody>
     </Layout>
   )
