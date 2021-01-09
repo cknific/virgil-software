@@ -22,7 +22,6 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-styled-components`,
-    `gatsby-remark-copy-linked-files`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -31,15 +30,17 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-remark-images`,
-      options: {
-        maxWidth: 1080,
-      },
-    },
-    {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [],
+        plugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 870,
+            },
+          },
+          `gatsby-remark-copy-linked-files`,
+        ],
       },
     },
     `gatsby-transformer-sharp`,
