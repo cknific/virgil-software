@@ -51,6 +51,7 @@ const PostImage = styled(Img)`
 
   ${breakpoint('mobile', 'tablet')`
     margin-bottom: 1.5rem;
+    height: 15rem;
     width: 100%;
   `};
 `
@@ -107,7 +108,12 @@ export const pageQuery = graphql`
             featured_image {
               publicURL
               childImageSharp {
-                sizes(maxWidth: 1080 ) {
+                sizes(
+                  maxWidth: 460
+                  maxHeight: 240
+                  quality: 90
+                  cropFocus: CENTER
+                ) {
                   srcSet
                 }
               }
