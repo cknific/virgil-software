@@ -1,3 +1,4 @@
+import Img from 'gatsby-image';
 import Layout from '../components/layout'
 import React from 'react'
 import { Helmet } from 'react-helmet'
@@ -18,8 +19,12 @@ const BlogHero = styled.div`
 `
 
 const PostCard = styled.div`
+  display: flex;
   margin-bottom: 2rem;
-  max-width: 600px;
+
+  ${breakpoint('mobile', 'tablet')`
+    flex-direction: column;
+  `};
 `
 
 const PostTitle = styled.h2`
@@ -39,6 +44,18 @@ const PostExcerpt = styled.p`
   font-size: .9rem;
 `
 
+const PostImage = styled(Img)`
+  height: 12rem;
+  width: 22rem;
+  margin-right: 2rem;
+
+  ${breakpoint('mobile', 'tablet')`
+    margin-bottom: 1.5rem;
+    height: 15rem;
+    width: 100%;
+  `};
+`
+
 export default function Blog ({ data }) {
   const { edges: posts } = data.allMarkdownRemark
 
@@ -56,13 +73,18 @@ export default function Blog ({ data }) {
             .map(({ node: post }) => {
               return (
                 <PostCard key={post.id}>
-                  <PostTitle>
-                    <Link to={post.frontmatter.path}>
-                      {post.frontmatter.title}
-                    </Link>
-                  </PostTitle>
-                  <PostDate>{post.frontmatter.date}</PostDate>
-                  <PostExcerpt>{post.excerpt}</PostExcerpt>
+                  <Link to={post.frontmatter.path}>
+                    <PostImage sizes={post.frontmatter.featured_image.childImageSharp.sizes} />
+                  </Link>
+                  <div>
+                    <PostTitle>
+                      <Link to={post.frontmatter.path}>
+                        {post.frontmatter.title}
+                      </Link>
+                    </PostTitle>
+                    <PostDate>{post.frontmatter.date}</PostDate>
+                    <PostExcerpt>{post.excerpt}</PostExcerpt>
+                  </div>
                 </PostCard>
               )
             })
@@ -83,6 +105,19 @@ export const pageQuery = graphql`
           frontmatter {
             title
             date(formatString: "MMMM DD, YYYY")
+            featured_image {
+              publicURL
+              childImageSharp {
+                sizes(
+                  maxWidth: 460
+                  maxHeight: 240
+                  quality: 90
+                  cropFocus: CENTER
+                ) {
+                  srcSet
+                }
+              }
+            }
             path
           }
         }

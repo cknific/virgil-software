@@ -1,3 +1,4 @@
+import Img from 'gatsby-image';
 import React from 'react'
 import { Helmet } from 'react-helmet'
 import { graphql } from 'gatsby'
@@ -61,7 +62,10 @@ export default function Template ({ data }) {
             View all Blog Posts
           </Breadcrumb>
         </Link>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div
+          dangerouslySetInnerHTML={{ __html: post.html }}
+          itemProp="articleBody"
+        />
       </PostBody>
     </Layout>
   )
@@ -74,6 +78,18 @@ export const pageQuery = graphql`
       frontmatter {
         author
         date(formatString: "MMMM DD, YYYY")
+        featured_image {
+          publicURL
+          childImageSharp {
+            sizes(
+              maxWidth: 870
+              quality: 90
+              cropFocus: CENTER
+            ) {
+              srcSet
+            }
+          }
+        }
         path
         title
       }
