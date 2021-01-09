@@ -3,7 +3,7 @@ path: "/first-post"
 date: 2020-12-30
 title: "Why have a blog anyway?"
 author: "Chris Knific"
-featured_image: "./images/test.png"
+featured_image: "./images/hello-world.jpg"
 ---
 Welcome! The concept for this blog is simple: I'd like an outlet to share some thoughts on my interests, both professional and casual. The posts will generally cover topics across software development, music, and running.
 
