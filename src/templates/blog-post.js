@@ -23,18 +23,6 @@ const PostBody = styled(Container)`
   }
 `
 
-const Breadcrumb = styled.div`
-  margin-bottom: 2rem;
-  display: flex;
-`
-
-const IconContainer = styled.div`
-  margin-right: 0.25rem;
-  height: 1.5rem;
-  width: 1.5rem;
-  color: #adadad;
-`
-
 export default function Template ({ data }) {
   const { markdownRemark: post } = data // data.markdownRemark holds your post data
 
