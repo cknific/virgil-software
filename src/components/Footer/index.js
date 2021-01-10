@@ -9,10 +9,15 @@ const FooterWrapper = styled.footer`
   text-align: center;
 `
 
+const StyledDiv = styled.div`
+  font-size: 0.75rem;
+`
+
 const Footer = () => (
   <FooterWrapper>
     <Container>
       © {new Date().getFullYear()} Virgil
+      <StyledDiv>Site built by Chris Knific with GatsbyJS</StyledDiv>
     </Container>
   </FooterWrapper>
 )
