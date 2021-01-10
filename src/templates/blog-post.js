@@ -1,11 +1,52 @@
-import Img from 'gatsby-image';
-import React from 'react'
-import { Helmet } from 'react-helmet'
-import { graphql } from 'gatsby'
-import Layout from '../components/layout'
 import { Container } from 'reactstrap'
-import { Link } from 'gatsby'
+import { Helmet } from 'react-helmet'
+import Layout from '../components/layout'
+import React from 'react'
+import ViewAllPosts from './view-all-posts'
+import { graphql } from 'gatsby'
 import styled from 'styled-components'
+
+const ArticleContent = styled.article`
+  p,
+  ul {
+    font-size: 1.3rem;
+    font-weight: lighter;
+    line-height: 1.75;
+    margin-bottom: 2.5rem;
+  }
+
+  ul {
+    margin-bottom: 2rem;
+  }
+
+  h1 {
+    font-size: 2.25rem;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+  }
+
+  h3 {
+    font-size: 1.35rem;
+  }
+
+  h4 {
+    font-size: 1.25rem;
+  }
+
+  h5 {
+    font-size: 1.15rem;
+  }
+
+  h6 {
+    font-size: 1.05rem;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 1.5rem;
+  }
+`
 
 const PostHero = styled.div`
   color: #fff;
