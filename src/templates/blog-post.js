@@ -7,6 +7,17 @@ import { graphql } from 'gatsby'
 import styled from 'styled-components'
 
 const ArticleContent = styled.article`
+  blockquote {
+    text-align: center;
+
+    p {
+      color: #18bc9c;
+      font-size: 3rem;
+      font-weight: bold;
+      line-height: 1.2;
+    }
+  }
+
   p,
   ul {
     font-size: 1.3rem;
@@ -86,6 +97,7 @@ export default function Template ({ data }) {
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
+        <hr />
         <ViewAllPosts />
       </PostBody>
     </Layout>
