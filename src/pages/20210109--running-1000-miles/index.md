@@ -78,7 +78,8 @@ Use your headphones and use your time to learn. In 2020, I rekindled my interest
 ## 🏁 Crossing The Finish Line
 I began to wonder what I would even feel when I achieved my goal. Should I feel relief? Pure joy and ecstasy? A burst of celebratory tears after a challenging year?
 
-![Finish Line](./images/run-1000.jpg)
+
+![Finish Line](./images/finish-line.jpg)
 
 **Here's what actually happened:** As soon as I set out for my 4-mile run that would push me beyond the threshold, I felt like I could do _anything_. Feelings of self-doubt melted away, and I felt overwhelming positive energy. That feeling alone was worth each of the previous 996 miles. When I finished, I smiled, sat down on the front porch, and began thinking about what would come next.
 
