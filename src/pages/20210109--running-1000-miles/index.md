@@ -1,7 +1,7 @@
 ---
 path: "/running-1000-miles"
 date: 2021-01-09
-title: "How I increased my annual mileage by 43% and ran 1,000 miles in 2020"
+title: "How I increased my annual mileage by 44% and ran 1,000 miles in 2020"
 author: "Chris Knific"
 featured_image: "./images/hero.jpg"
 ---
@@ -18,16 +18,16 @@ Like everyone else in the world, 2020 did not go as planned for me. I feel for f
 > You can't outrun your demons, but you can attack them.
 > <cite>&#8212; David Goggins</cite>
 
-Given the unfortunate circumstances of isolating lockdowns, financial hardship, and divisive politics, how could I stay motivated to achieve my lofty running goal? To quote the "Toughest Man Alive," [David Goggins](https://www.instagram.com/davidgoggins/), "you can't outrun your demons, but you can _attack them_." That phrase summarizes how I dealt with 2020; I couldn't control most of the unfavorable conditions around me, but I could ground myself by attacking my running goal.
+Given the unfortunate circumstances of isolating lockdowns, financial hardship, and divisive politics, how could I stay motivated to achieve my lofty running goal? I found some inspiration from the "Toughest Man Alive," [David Goggins](https://www.instagram.com/davidgoggins/). He said, "you can't outrun your demons, but you can _attack them_." And that phrase summarizes how I dealt with 2020; I couldn't control most of the unfavorable conditions around me, but I could ground myself by attacking my running goal.
 
 ## My Running History
 I used to hate running. I grew up in Southwest Florida, and the humidity generally kept me inside, where I was nerding out on music. That all changed when I moved to Los Angeles in 2010 and was inspired to explore the city on foot. Living in Silver Lake, I spent considerable time in Griffith Park, the LA River, and various trails.
 
-Since I moved to California, I've run 3 full marathons, 10 half marathons, and a handful of 5/10k races. My best full marathon time is 3:43 (LA in 2020). That's a pace of 8:29 per mile for 26.2 miles. While that time doesn't qualify for the Boston Marathon, I'm proud of how much I've improved over the past 8 years.
+Since I moved to California, I've run 3 full marathons, 10 half marathons, and a handful of 5/10k races. My best full marathon time is 3:43 (8:29 per mile), and my best half marathon time is 1:39 (7:37 per mile). While my marathon time doesn't qualify for the Boston Marathon, I'm proud of how much I've improved over the years.
 
 ![Running History](./images/miles-per-year.png)
 
-For those doing the math, 1,000 miles in a year isn't a crazy amount of miles. If you ran 2.8 miles every day of the year, you would easily achieve the same goal. The real challenge is getting out there and staying healthy/motivated for 52 weeks. The best I could do in any previous year was about 700 miles. And there's a reason for that; I've injured myself every year for the last 8 years by increasing my mileage too quickly. So, I knew I had to take a new approach if I was going to run 43% more miles than in my previous year.
+For those doing the math, 1,000 miles in a year isn't a crazy amount of miles. If you ran 2.8 miles every day of the year, you would easily achieve the same goal. The real challenge is getting out there and staying healthy/motivated for 52 weeks. The best I could do in any previous year was about 700 miles. And there's a reason for that; I've injured myself every year for the last 8 years by increasing my mileage too quickly. So, I knew I had to take a new approach if I was going to run 44% more miles than in my previous year.
 
 ## Injuries
 In the past decade, I've suffered some type of running injury nearly every year: Plantar fasciitis, knee pain, IT band pain, calf strains, back pain, and more. All of this was a result of pushing too hard, too fast. Even in my mid-twenties, my body routinely told me it was not okay with how quickly I expected it to adapt to rapid increases in mileage.
@@ -35,15 +35,21 @@ In the past decade, I've suffered some type of running injury nearly every year:
 ## Strategy
 To overcome this, I worked with a physical therapist, elite runner, and overall rad dude, [Jordan Perry](https://www.fitrightphysicaltherapy.com/), to devise a strategy of ramping up mileage.
 
-### 📈 Consistently run more miles each month.
+### 📊 Consistently run more miles each month.
 When I first met Jordan in 2019, he pointed out how inconsistent my numbers were. I would run a bunch of miles leading up to a race and then rest for several months after. He told me I need to start averaging at least 70 miles each month for a full year. By January 2020, I had several consecutive months above that minimum.
+
+### 📈 Ramp up mileage in 3:1 cycles.
+This concept is simple: increase weekly mileage each week for three weeks, and then reduce mileage on the fourth week for some rest (by about 30%). Repeat.
+
+### 📅 Plan each run using a calendar.
+Before the start of each month, I'll plan out each run using a spreadsheet to ensure I'm following my 3:1 rule above. I'll then log each planned run in my calendar so that I can ensure the workouts fit into my schedule.
 
 ### 🏋 Ditch static stretches, do dynamic warmups.
 In 2020, I replaced static stretching with dynamic warmups. I did thousands of walking lunges this year before my runs. I swung my legs back and forth. I did un-weighted squats. I did butt-kicks and high-knees. For the most part, I stopped stretching altogether. I stopped foam-rolling. The result? I felt better AND maintained flexibility.
 
 _If this seems crazy to you, take a look at this article on [the case against stretching](https://www.outsideonline.com/2408467/case-against-stretching-flexibility-research)._
 
-### ⚖️ Focus on Body Mass Index (BMI).
+### ⚖️ Achieve an athletic Body Mass Index (BMI).
 As a by-product of the increase in mileage (and cooking at home due to Covid), I lost about 30 pounds and reduced my body fat to about 10-11%. As I had done in previous training cycles, I tracked my caloric intake with MyFitnessPal until I reached my goal weight.
 
 ![Weight](./images/weight.png)
@@ -52,14 +58,14 @@ But the real trick was getting my BMI (Body Mass Index) down to 19. I bought a s
 
 I was intimately aware that dieting and endurance running were diametrically opposed forces. I needed energy from food to be able to run! The trick here is to lose weight only while realizing benefits in performance. This took some time, but in the end, it was worthwhile.
 
-### Fuel the body for runs
+### 🍽 Fuel your body for runs.
 Running wouldn't be any fun if I felt gassed during or after each run. To avoid that, I make sure to feed my body properly. From a macronutrient perspective, I strive to get most of my calories from carbs and protein. Luckily for me, I'm comfortable eating roughly the same meal almost every day. That generally looks like:
 - Kashi GoLean cereal in the morning
 - Turkey or ham sandwich at lunch
 - Protein & rice bowl at dinner
 - Rx Bar for a snack
 
-To prepare for runs, I take advantage of my recurring subscription of GU Energy Gels, which I'll consume before each workout. And if I'm going out for a run above 9-10 miles, I'll also prep with a glass of CarboPro (basically carbs in powdered form).
+To prepare for runs, I take advantage of my recurring subscription of [GU Energy Gels](https://guenergy.com/products/energy-gel), which I'll consume before each workout. And if I'm going out for a run above 9-10 miles, I'll also prep with a glass of CarboPro (basically carbs in powdered form).
 
 ## Maintaining Motivation During Runs
 Here are some tactics I used to keep my feet moving in the middle of runs:
