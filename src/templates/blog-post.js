@@ -16,6 +16,12 @@ const ArticleContent = styled.article`
       font-weight: bold;
       line-height: 1.2;
     }
+
+    cite {
+      display: block;
+      font-size: 1rem;
+      margin-top: 2rem;
+    }
   }
 
   p,

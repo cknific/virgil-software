@@ -10,12 +10,13 @@ In 2020, I achieved my goal of running over 1,000 miles in the calendar year. On
 ## Setting the 1,000 Mile Goal
 In January 2020, a friend asked if I had any New Year's resolutions. I told her I wanted to run 1,000 miles before the year's end without giving it much thought beforehand. Just like that, I challenged myself on the spot at a burger joint in Echo Park, and I let that seed grow over the next few days until it crystallized into a formal goal.
 
-Usually, I'm not one to make resolutions because, like any cold turkey/dieting trends, I find them psychologically unsustainable. Instead, I've preferred small changes that I can sustain over a lifetime. But as I've grown older, I've realized that sometimes one must set ambitious goals to achieve significant growth. Goals that take a full year to accomplish don't bring about radical, instantaneous change. While quick fixes sound enticing, a full year of hard work will do more to burn best practices into your psyche.
+Usually, I'm not one to make resolutions because, like any cold turkey/dieting trends, I find them psychologically unsustainable. Radical, instantaneous change is simply unrealistic. Instead, I've preferred small changes that I can foresee sustaining for many years. But as I've grown older, I've realized that meaningful growth can result form a full year of hard work.
 
 ## Achieving Big Goals in 2020
 Like everyone else in the world, 2020 did not go as planned for me. I feel for folks who have lost their businesses and jobs, and I'm fortunate that I still have a stable gig. That said, I took a big financial hit in 2020, and I know I'm not alone.
 
 > You can't outrun your demons, but you can attack them.
+> <cite>&#8212; David Goggins</cite>
 
 Given the unfortunate circumstances of isolating lockdowns, financial hardship, and divisive politics, how could I stay motivated to achieve my lofty running goal? To quote the "Toughest Man Alive," [David Goggins](https://www.instagram.com/davidgoggins/), "you can't outrun your demons, but you can _attack them_." That phrase summarizes how I dealt with 2020; I couldn't control most of the unfavorable conditions around me, but I could ground myself by attacking my running goal.
 
