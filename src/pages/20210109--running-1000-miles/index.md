@@ -10,7 +10,7 @@ In 2020, I achieved my goal of running over 1,000 miles in the calendar year. On
 ## Setting the 1,000 Mile Goal
 In January 2020, a friend asked if I had any New Year's resolutions. I told her I wanted to run 1,000 miles before the year's end without giving it much thought beforehand. Just like that, I challenged myself on the spot at a burger joint in Echo Park, and I let that seed grow over the next few days until it crystallized into a formal goal.
 
-Usually, I'm not one to make resolutions because, like any cold turkey/dieting trends, I find them psychologically unsustainable. Radical, instantaneous change is simply unrealistic. Instead, I've preferred small changes that I can foresee sustaining for many years. But as I've grown older, I've realized that meaningful growth can result form a full year of hard work.
+Usually, I'm not one to make resolutions because, like any cold turkey/dieting trends, I find them psychologically unsustainable. Radical, instantaneous change is simply unrealistic. Instead, I've preferred small changes that I can foresee sustaining for many years. But as I've grown older, I've realized that some meaningful growth requires a full year of hard work.
 
 ## Achieving Big Goals in 2020
 Like everyone else in the world, 2020 did not go as planned for me. I feel for folks who have lost their businesses and jobs, and I'm fortunate that I still have a stable gig. That said, I took a big financial hit in 2020, and I know I'm not alone.
@@ -38,17 +38,19 @@ To overcome this, I worked with a physical therapist, elite runner, and overall 
 ### 📈 Consistently run more miles each month.
 When I first met Jordan in 2019, he pointed out how inconsistent my numbers were. I would run a bunch of miles leading up to a race and then rest for several months after. He told me I need to start averaging at least 70 miles each month for a full year. By January 2020, I had several consecutive months above that minimum.
 
-### 🏋 Ditch stretches, do dynamic warmups.
-Replace static stretching with dynamic warmups. I did over 5,000 walking lunges this year before my runs. I swung my legs back and forth. I did un-weighted quats. I did butt-kicks and high knees. I stopped stretching. I stopped rolling. I felt better AND maintained flexibility.
+### 🏋 Ditch static stretches, do dynamic warmups.
+In 2020, I replaced static stretching with dynamic warmups. I did thousands of walking lunges this year before my runs. I swung my legs back and forth. I did un-weighted squats. I did butt-kicks and high-knees. For the most part, I stopped stretching altogether. I stopped foam-rolling. The result? I felt better AND maintained flexibility.
 
-_If this seems crazy to you, take a gander at this article on [the case against stretching](https://www.outsideonline.com/2408467/case-against-stretching-flexibility-research)._
+_If this seems crazy to you, take a look at this article on [the case against stretching](https://www.outsideonline.com/2408467/case-against-stretching-flexibility-research)._
 
 ### ⚖️ Focus on Body Mass Index (BMI).
 As a by-product of the increase in mileage (and cooking at home due to Covid), I lost about 30 pounds and reduced my body fat to about 10-11%. As I had done in previous training cycles, I tracked my caloric intake with MyFitnessPal until I reached my goal weight.
 
 ![Weight](./images/weight.png)
 
-But the real trick was getting my BMI (Body Mass Index) down to 19. I bought a smart scale from [Greater Goods](https://greatergoods.com/), tracked my body fat, and monitored my caloric intake to reduce weight. Once I reached it, my runs became easier and faster. I'm intimately aware that dieting and endurance running are diametrically opposed forces. Therefore, one must lose weight only while realizing benefits in performance. This takes some time, but in the end, it's worthwhile.
+But the real trick was getting my BMI (Body Mass Index) down to 19. I bought a smart scale from [Greater Goods](https://greatergoods.com/), tracked my body fat, and monitored my caloric intake to reduce weight. Once I reached it, my runs became easier and faster.
+
+I was intimately aware that dieting and endurance running were diametrically opposed forces. I needed energy from food to be able to run! The trick here is to lose weight only while realizing benefits in performance. This took some time, but in the end, it was worthwhile.
 
 ### Fuel the body for runs
 Running wouldn't be any fun if I felt gassed during or after each run. To avoid that, I make sure to feed my body properly. From a macronutrient perspective, I strive to get most of my calories from carbs and protein. Luckily for me, I'm comfortable eating roughly the same meal almost every day. That generally looks like:
@@ -57,9 +59,9 @@ Running wouldn't be any fun if I felt gassed during or after each run. To avoid 
 - Protein & rice bowl at dinner
 - Rx Bar for a snack
 
-To prepare for runs, I take advantage of my recurring subscription of GU Energy Gels. I take one of those before every run to make sure I have gas in the tank. And if I'm going out for a run above 9-10 miles, I'll also prep with a glass of CarboPro &#8212; which is exactly what it sounds like.
+To prepare for runs, I take advantage of my recurring subscription of GU Energy Gels, which I'll consume before each workout. And if I'm going out for a run above 9-10 miles, I'll also prep with a glass of CarboPro (basically carbs in powdered form).
 
-## Motivation During Runs
+## Maintaining Motivation During Runs
 Here are some tactics I used to keep my feet moving in the middle of runs:
 
 ### ➡️ Attack the negatives
@@ -69,15 +71,15 @@ We all have stuff that holds us back and embarrasses us. Use the meditative natu
 When you're having a good day, your run should be faster. Challenge yourself that day because you have extra energy that you can leave on the trails.
 
 ### ➡️ Entertain yourself and learn
-Use your headphones and use your time to learn. In 2020, I rekindled my interest in podcasts. One particularly engaging series for me has been [The Lex Fridman Podcast](https://lexfridman.com/podcast/).
+Use this time to educate yourself or laugh. In 2020, I rekindled my interest in podcasts. One particularly engaging series for me has been [The Lex Fridman Podcast](https://lexfridman.com/podcast/).
 
 ## Non-Covid Obstacles in 2020
-- I had some significant ankle pain in the summer. When it wouldn't subside, I took about a week off and brought up the mileage slowly. I was previously ahead of schedule and then had miles to make up.
-- I traveled 4 times in the last 4 months of 2020 alone. It can be really tough to get runs in while on the road (or in the air), but I made it happen.
-- I routinely feel exhausted because I'm not the best sleeper. There were days I really didn't feel like running but got out there anyway.
+- I had some significant ankle pain in the summer. When it wouldn't subside, I took about a week off and brought up the mileage slowly. I was previously ahead of schedule, so I felt bummed to take time off and fall behind. In the end, it was worth taking the rest.
+- I traveled 4 times in the last 4 months of 2020 alone. It can be really tough to get runs in while on the road, but I made it happen. I make sure to bring my running gear and supplements on every trip. More importantly, I plan how/when I'll get my runs in before I leave home.
+- We all have days where we just don't have the energy. Overcoming this obstacle was only possible by maintaining a strict schedule of running where I didn't give myself the option of bowing out. Once this becomes routine and you realize that your energy actually increases after a run, you'll stop giving yourself an out and just get the workout done.
 
 ## 🏁 Crossing The Finish Line
-I began to wonder what I would even feel when I achieved my goal. Should I feel relief? Pure joy and ecstasy? A burst of celebratory tears after a challenging year?
+In December of 2020, it became clear that I was going to meet my goal. Realizing I had never deliberately attacked something like this for an entire year, I began to wonder what I would even feel when I crossed the finish line. Should I feel relief? Pure joy and ecstasy? A burst of emotions after a challenging year?
 
 
 ![Finish Line](./images/finish-line.jpg)
