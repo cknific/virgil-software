@@ -74,6 +74,12 @@ const PostHero = styled.div`
   margin-bottom: 4rem;
 `
 
+const PostTitle = styled.h1`
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+`
+
 const PostBody = styled(Container)`
   && {
     margin-bottom: 4rem;
@@ -89,7 +95,7 @@ export default function Template ({ data }) {
       <Helmet title={`Virgil Blog | ${post.frontmatter.title}`} />
       <PostHero>
         <Container>
-          <h1>{post.frontmatter.title}</h1>
+          <PostTitle>{post.frontmatter.title}</PostTitle>
           <div>
             <span>{post.frontmatter.author}</span>
             <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
