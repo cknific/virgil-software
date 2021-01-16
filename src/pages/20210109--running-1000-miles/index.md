@@ -1,7 +1,7 @@
 ---
 path: "/running-1000-miles"
 date: 2021-01-09
-title: "I Ran 1,000 Miles in 2020"
+title: "How I increased my annual mileage by 43% and ran 1,000 miles in 2020"
 author: "Chris Knific"
 featured_image: "./images/hero.jpg"
 ---
