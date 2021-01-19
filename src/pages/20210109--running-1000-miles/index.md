@@ -23,11 +23,16 @@ Given the unfortunate circumstances of isolating lockdowns, financial hardship, 
 ## My Running History
 I used to hate running. I grew up in Southwest Florida, and the humidity generally kept me inside, where I was nerding out on music. That all changed when I moved to Los Angeles in 2010 and was inspired to explore the city on foot. Living in Silver Lake, I spent considerable time in Griffith Park, the LA River, and various trails.
 
-Since I moved to California, I've run 3 full marathons, 10 half marathons, and a handful of 5/10k races. My best full marathon time is 3:43 (8:29 per mile), and my best half marathon time is 1:39 (7:37 per mile). While my marathon time doesn't qualify for the Boston Marathon, I'm proud of how much I've improved over the years.
+![Running History](./images/miles-per-year.png) <figcaption>Annual mileage logged via Runkeeper</figcaption>
 
-![Running History](./images/miles-per-year.png)
+Since I moved to California, I've run 3 full marathons, 9 half marathons, and a handful of 5/10k races. My best full marathon time is 3:43 (8:29 per mile), and my best half marathon time is 1:39 (7:37 per mile). Prior to 2019, I never really cared about how many miles I ran in a year. I was preoccupied with improving my pace in endurance races.
 
-For those doing the math, 1,000 miles in a year isn't a crazy amount of miles. If you ran 2.8 miles every day of the year, you would easily achieve the same goal. The real challenge is getting out there and staying healthy/motivated for 52 weeks. The best I could do in any previous year was about 700 miles. And there's a reason for that; I've injured myself every year for the last 8 years by increasing my mileage too quickly. So, I knew I had to take a new approach if I was going to run 44% more miles than in my previous year.
+## Is 1,000/year really that challenging?
+For those doing the math, running 1,000 miles in one year isn't a crazy amount of miles at all. If you ran 2.8 miles every day of the year, you would easily achieve the same goal. But that's not what I set out to do. I wanted to **improve my race pace**, **stay in half marathon shape or better**, and **become stronger/healthier**.
+
+![Year over year](./images/year-over-year-runkeeper.png) <figcaption>Annual improvements in pace and mileage</figcaption>
+
+That said, my challenge was staying healthy/motivated for 52 weeks. The best I could do in any previous year was about 700 miles. And there's a reason for that; I've injured myself every year for the last 8 years by increasing my mileage too quickly. So, I knew I had to take a new approach if I was going to run 44% more miles than in my previous year.
 
 ## Injuries
 In the past decade, I've suffered some type of running injury nearly every year: Plantar fasciitis, knee pain, IT band pain, calf strains, back pain, and more. All of this was a result of pushing too hard, too fast. Even in my mid-twenties, my body routinely told me it was not okay with how quickly I expected it to adapt to rapid increases in mileage.
@@ -44,7 +49,9 @@ This concept is simple: increase weekly mileage each week for three weeks, and t
 ### 📅 Plan each run using a calendar.
 Before the start of each month, I'll plan out each run using a spreadsheet to ensure I'm following my 3:1 rule above. I'll then log each planned run in my calendar so that I can ensure the workouts fit into my schedule.
 
-### 🏋 Ditch static stretches, do dynamic warmups.
+![Running Spreadsheet](./images/spreadsheet.png) <figcaption>Completed runs updated in my spreadsheet</figcaption>
+
+### 🏋 Ditch static stretches. Do dynamic warmups.
 In 2020, I replaced static stretching with dynamic warmups. I did thousands of walking lunges this year before my runs. I swung my legs back and forth. I did un-weighted squats. I did butt-kicks and high-knees. For the most part, I stopped stretching altogether. I stopped foam-rolling. The result? I felt better AND maintained flexibility.
 
 _If this seems crazy to you, take a look at this article on [the case against stretching](https://www.outsideonline.com/2408467/case-against-stretching-flexibility-research)._
@@ -52,7 +59,7 @@ _If this seems crazy to you, take a look at this article on [the case against st
 ### ⚖️ Achieve an athletic Body Mass Index (BMI).
 As a by-product of the increase in mileage (and cooking at home due to Covid), I lost about 30 pounds and reduced my body fat to about 10-11%. As I had done in previous training cycles, I tracked my caloric intake with MyFitnessPal until I reached my goal weight.
 
-![Weight](./images/weight.png)
+![Weight](./images/weight.png) <figcaption>Weight change logged in MyFitnessPal</figcaption>
 
 But the real trick was getting my BMI (Body Mass Index) down to 19. I bought a smart scale from [Greater Goods](https://greatergoods.com/), tracked my body fat, and monitored my caloric intake to reduce weight. Once I reached it, my runs became easier and faster.
 
@@ -88,7 +95,7 @@ Use this time to educate yourself or laugh. In 2020, I rekindled my interest in 
 In December of 2020, it became clear that I was going to meet my goal. Realizing I had never deliberately attacked something like this for an entire year, I began to wonder what I would even feel when I crossed the finish line. Should I feel relief? Pure joy and ecstasy? A burst of emotions after a challenging year?
 
 
-![Finish Line](./images/finish-line.jpg)
+![Finish Line](./images/finish-line.jpg) <figcaption>After breaking 1,000 on Christmas day in FL</figcaption>
 
 **Here's what actually happened:** As soon as I set out for my 4-mile run that would push me beyond the threshold, I felt like I could do _anything_. Feelings of self-doubt melted away, and I felt overwhelming positive energy. That feeling alone was worth each of the previous 996 miles. When I finished, I smiled, sat down on the front porch, and began thinking about what would come next.
 
